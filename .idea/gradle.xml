@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
@@ -30,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/Difference of times" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Division" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
@@ -37,10 +39,13 @@
             <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
             <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Problems/From string to a number" />
             <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
             <option value="$PROJECT_DIR$/Problems/Grades" />
             <option value="$PROJECT_DIR$/Problems/Groundhogs at a party" />
             <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
             <option value="$PROJECT_DIR$/Problems/Hiring a chef" />
             <option value="$PROJECT_DIR$/Problems/How many nuts each squirrel will get" />
@@ -61,12 +66,14 @@
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Size of parts" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
             <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
             <option value="$PROJECT_DIR$/Problems/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
             <option value="$PROJECT_DIR$/Problems/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
             <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The army of units" />
             <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
